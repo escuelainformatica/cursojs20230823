@@ -7,7 +7,6 @@ import { RouterLink, RouterView } from 'vue-router'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/libroinsertar">LibroInsertar</RouterLink>
-        <RouterLink to="/libroactualizar">LibroActualizar</RouterLink>
       </nav>
 
   <RouterView />
